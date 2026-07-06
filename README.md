@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

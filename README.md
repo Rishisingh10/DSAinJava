@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |

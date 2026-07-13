@@ -3,17 +3,18 @@ class Solution {
 
         int i = 0;
         int max = 0;
+        int count = 0;   // Frequency of 0s in current window
 
         for (int j = 0; j < nums.length; j++) {
 
             if (nums[j] == 0) {
-                k--;
+                count++;
             }
 
-            while (k < 0) {
+            while (count > k) {
 
                 if (nums[i] == 0) {
-                    k++;
+                    count--;
                 }
 
                 i++;

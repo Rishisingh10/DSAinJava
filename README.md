@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rishisingh10/DSAinJava/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisingh10/DSAinJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisingh10/DSAinJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

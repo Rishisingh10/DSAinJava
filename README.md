@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisingh10/DSAinJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/Rishisingh10/DSAinJava/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rishisingh10/DSAinJava/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/Rishisingh10/DSAinJava/tree/master/0528-random-pick-with-weight) |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/Rishisingh10/DSAinJava/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->

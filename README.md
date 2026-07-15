@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rishisingh10/DSAinJava/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisingh10/DSAinJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

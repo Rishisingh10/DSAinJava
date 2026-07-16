@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishisingh10/DSAinJava/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Rishisingh10/DSAinJava/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishisingh10/DSAinJava/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisingh10/DSAinJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
+| [0763-partition-labels](https://github.com/Rishisingh10/DSAinJava/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Rishisingh10/DSAinJava/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -106,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisingh10/DSAinJava/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishisingh10/DSAinJava/tree/master/0135-candy) |
+| [0763-partition-labels](https://github.com/Rishisingh10/DSAinJava/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisingh10/DSAinJava/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishisingh10/DSAinJava/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Rishisingh10/DSAinJava/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0215-kth-largest-element-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rishisingh10/DSAinJava/tree/master/0528-random-pick-with-weight) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rishisingh10/DSAinJava/tree/master/1004-max-consecutive-ones-iii) |

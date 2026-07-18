@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rishisingh10/DSAinJava/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rishisingh10/DSAinJava/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rishisingh10/DSAinJava/tree/master/0057-insert-interval) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishisingh10/DSAinJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rishisingh10/DSAinJava/tree/master/0134-gas-station) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Rishisingh10/DSAinJava/tree/master/0528-random-pick-with-weight) |

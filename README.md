@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisingh10/DSAinJava/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Rishisingh10/DSAinJava/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishisingh10/DSAinJava/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisingh10/DSAinJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rishisingh10/DSAinJava/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Rishisingh10/DSAinJava/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rishisingh10/DSAinJava/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0151-reverse-words-in-a-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rishisingh10/DSAinJava/tree/master/0013-roman-to-integer) |
 | [0528-random-pick-with-weight](https://github.com/Rishisingh10/DSAinJava/tree/master/0528-random-pick-with-weight) |
 ## Randomized
 |  |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishisingh10/DSAinJava/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Rishisingh10/DSAinJava/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Rishisingh10/DSAinJava/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Rishisingh10/DSAinJava/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Rishisingh10/DSAinJava/tree/master/0053-maximum-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishisingh10/DSAinJava/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Rishisingh10/DSAinJava/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Rishisingh10/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Rishisingh10/DSAinJava/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishisingh10/DSAinJava/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rishisingh10/DSAinJava/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

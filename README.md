@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Rishisingh10/DSAinJava/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rishisingh10/DSAinJava/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rishisingh10/DSAinJava/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Rishisingh10/DSAinJava/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Rishisingh10/DSAinJava/tree/master/0763-partition-labels) |
@@ -175,4 +176,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Rishisingh10/DSAinJava/tree/master/0044-wildcard-matching) |
+| [0394-decode-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishisingh10/DSAinJava/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Rishisingh10/DSAinJava/tree/master/0394-decode-string) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Rishisingh10/DSAinJava/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

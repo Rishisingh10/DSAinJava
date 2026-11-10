@@ -191,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Rishisingh10/DSAinJava/tree/master/0197-rising-temperature) |
+| [1661-average-time-of-process-per-machine](https://github.com/Rishisingh10/DSAinJava/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
